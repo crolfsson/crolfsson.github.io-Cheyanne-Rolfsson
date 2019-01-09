@@ -7,7 +7,7 @@ I code skillfully, so that you don't have to.
 Since beginning my journey as a business analyst nearly 5 years ago, I have been working with software but did not really understand "how" software works.  So in 2018, I decided to get the full picture by becoming a student at The Tech Academy coding bootcamp.  Through many hours of victories and frustrating learning curves, I have improved my software knowledge by leaps and bounds!  My experience and hard work have built my coding confidence, increased my natural curiosity, and have amped my software chops.
 
 ```markdown
-Check out my skills and experience!
+Check out my software skills and experience!
 
 # Languages I speak
 
