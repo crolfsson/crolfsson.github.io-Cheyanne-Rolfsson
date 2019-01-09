@@ -4,7 +4,7 @@ I design and code skillfully, so that you don't have to.
 
 ### Hi, my name is Cheyanne.  Nice to meet you.
 
-Since beginning my journey as a business analyst nearly 5 years ago, I have always wanted to know how software "works".  Although as an analyst I worked with software everyday, I didn't really get the full story of how and why the software was working.  So in 2018, I decided to get the full picture by becoming a student at The Tech Academy coding bootcamp.  Through many hours of victories and frustrating learning curves, I have improved my software knowledge by leaps and bounds!  The Tech Academy has built my coding confidence, increased my natural curiosity, my ambition to continually improve my chops.
+Since beginning my journey as a business analyst nearly 5 years ago, I have been working with software but did not really understand "how" software works.  So in 2018, I decided to get the full picture by becoming a student at The Tech Academy coding bootcamp.  Through many hours of victories and frustrating learning curves, I have improved my software knowledge by leaps and bounds!  My experience and hard work have built my coding confidence, increased my natural curiosity, and have amped my software chops.
 
 ```markdown
 Syntax highlighted code block
